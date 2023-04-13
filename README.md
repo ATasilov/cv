@@ -1,4 +1,4 @@
 CV
 
 
-https://atasilov.github.io/cv/index.html
+https://atasilov.github.io/cv/bielden.html
